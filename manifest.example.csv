@@ -1,0 +1,4 @@
+image,mask,label,split
+images/plant_0001.jpg,masks/plant_0001.png,0,train
+images/plant_0002.jpg,masks/plant_0002.png,1,val
+images/plant_0003.jpg,masks/plant_0003.png,0,test
